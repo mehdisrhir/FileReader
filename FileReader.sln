@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextReader", "FileReader\Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlReader", "XmlReader\XmlReader.csproj", "{4E112243-F873-48DC-A51C-E6D0B57C7CCD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptedTxt", "EncryptedTxt\EncryptedTxt.csproj", "{EC69E3F5-D453-4D7E-A1E2-361A81C851D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4E112243-F873-48DC-A51C-E6D0B57C7CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E112243-F873-48DC-A51C-E6D0B57C7CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E112243-F873-48DC-A51C-E6D0B57C7CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC69E3F5-D453-4D7E-A1E2-361A81C851D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC69E3F5-D453-4D7E-A1E2-361A81C851D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC69E3F5-D453-4D7E-A1E2-361A81C851D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC69E3F5-D453-4D7E-A1E2-361A81C851D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
