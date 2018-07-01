@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextReader", "FileReader\TextReader.csproj", "{3103347B-EB5E-4A54-8102-389613EAC5DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlReader", "XmlReader\XmlReader.csproj", "{4E112243-F873-48DC-A51C-E6D0B57C7CCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3103347B-EB5E-4A54-8102-389613EAC5DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3103347B-EB5E-4A54-8102-389613EAC5DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3103347B-EB5E-4A54-8102-389613EAC5DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E112243-F873-48DC-A51C-E6D0B57C7CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E112243-F873-48DC-A51C-E6D0B57C7CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E112243-F873-48DC-A51C-E6D0B57C7CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E112243-F873-48DC-A51C-E6D0B57C7CCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
